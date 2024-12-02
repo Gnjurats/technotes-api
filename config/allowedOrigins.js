@@ -1,5 +1,5 @@
 const allowedOrigins = [
-    'https://www.gag-api.onrender.com',
+    'https://www.gag.onrender.com',
 ]
 
 module.exports = allowedOrigins
